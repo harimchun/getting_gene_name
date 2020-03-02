@@ -1,2 +1,2 @@
 # getting_gene_name
-Getting Genes' Name refer to the dbSNP
+Collect the Genes' Name refer to the dbSNP
